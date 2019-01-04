@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 391a877a24ecbbe4fa283431445f2680
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alice
+    100002: Alice_2
+    100004: //RootNode
+    100006: Cape
+    100008: Cinema4D_Editor
+    100010: Head
+    100012: HeadTip
+    100014: Hips
+    100016: LeftArm
+    100018: LeftFingers
+    100020: LeftFingersTip
+    100022: LeftFoot
+    100024: LeftForeArm
+    100026: LeftHand
+    100028: LeftLeg
+    100030: LeftLegShin
+    100032: LeftThumb
+    100034: LeftThumbBend
+    100036: LeftThumbTip
+    100038: LeftToes
+    100040: LeftToesTip
+    100042: Neck
+    100044: RightArm
+    100046: RightFingers
+    100048: RightFingersTip
+    100050: RightFoot
+    100052: RightForeArm
+    100054: RightHand
+    100056: RightLeg
+    100058: RightLegShin
+    100060: RightThumb
+    100062: RightThumbBend
+    100064: RightThumbTip
+    100066: RightToes
+    100068: RightToesTip
+    100070: Sky
+    100072: Spine1
+    100074: Spine2
+    400000: Alice
+    400002: Alice_2
+    400004: //RootNode
+    400006: Cape
+    400008: Cinema4D_Editor
+    400010: Head
+    400012: HeadTip
+    400014: Hips
+    400016: LeftArm
+    400018: LeftFingers
+    400020: LeftFingersTip
+    400022: LeftFoot
+    400024: LeftForeArm
+    400026: LeftHand
+    400028: LeftLeg
+    400030: LeftLegShin
+    400032: LeftThumb
+    400034: LeftThumbBend
+    400036: LeftThumbTip
+    400038: LeftToes
+    400040: LeftToesTip
+    400042: Neck
+    400044: RightArm
+    400046: RightFingers
+    400048: RightFingersTip
+    400050: RightFoot
+    400052: RightForeArm
+    400054: RightHand
+    400056: RightLeg
+    400058: RightLegShin
+    400060: RightThumb
+    400062: RightThumbBend
+    400064: RightThumbTip
+    400066: RightToes
+    400068: RightToesTip
+    400070: Sky
+    400072: Spine1
+    400074: Spine2
+    2300000: Cape
+    3300000: Cape
+    4300000: Alice_2
+    4300002: Cape
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Alice_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AliceSkin
+    second: {fileID: 2100000, guid: 5d8913bb2781caf4fb6cd3c3c1d3acd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlueShirt
+    second: {fileID: 2100000, guid: f087c91b2938e2447bb5b78b468cacc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenPants
+    second: {fileID: 2100000, guid: 153daf84732154f4186da09cacce8ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0853145442bed124aa9b1dc349bba648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose
+    second: {fileID: 2100000, guid: ba34b7c899dfee44fa61af339f4048ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orangemeh
+    second: {fileID: 2100000, guid: be0a05d8646708e4b8cde0519667df61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: f63e1e6cc7028e44897916bbe25905c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smile
+    second: {fileID: 2100000, guid: 61e2c45a16dbffb48a89bbb3214961d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 51e71f785c10b48a68785376cbe92fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowHair
+    second: {fileID: 2100000, guid: cd0ff7c0acb98a345a3fdd4c9216884e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Alice
+        weight: 1
+      - path: Alice/Alice_2
+        weight: 1
+      - path: Alice/Alice_2/Cape
+        weight: 1
+      - path: Alice/Alice_2/Hips
+        weight: 1
+      - path: Alice/Alice_2/Hips/LeftLeg
+        weight: 1
+      - path: Alice/Alice_2/Hips/LeftLeg/LeftLegShin
+        weight: 1
+      - path: Alice/Alice_2/Hips/LeftLeg/LeftLegShin/LeftFoot
+        weight: 1
+      - path: Alice/Alice_2/Hips/LeftLeg/LeftLegShin/LeftFoot/LeftToes
+        weight: 1
+      - path: Alice/Alice_2/Hips/LeftLeg/LeftLegShin/LeftFoot/LeftToes/LeftToesTip
+        weight: 1
+      - path: Alice/Alice_2/Hips/RightLeg
+        weight: 1
+      - path: Alice/Alice_2/Hips/RightLeg/RightLegShin
+        weight: 1
+      - path: Alice/Alice_2/Hips/RightLeg/RightLegShin/RightFoot
+        weight: 1
+      - path: Alice/Alice_2/Hips/RightLeg/RightLegShin/RightFoot/RightToes
+        weight: 1
+      - path: Alice/Alice_2/Hips/RightLeg/RightLegShin/RightFoot/RightToes/RightToesTip
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftFingers
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftFingers/LeftFingersTip
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb/LeftThumbBend
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb/LeftThumbBend/LeftThumbTip
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/Neck
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/Neck/Head/HeadTip
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightFingers
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightFingers/RightFingersTip
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb/RightThumbBend
+        weight: 1
+      - path: Alice/Alice_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb/RightThumbBend/RightThumbTip
+        weight: 1
+      - path: Cinema4D_Editor
+        weight: 1
+      - path: Sky
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EG-Windsor" size="0.125000 0.113636" />
+    <ImageTarget name="EG-Inspiration" size="0.125000 0.093750" />
+    <ImageTarget name="EG-Origin" size="0.125000 0.118110" />
+    <ImageTarget name="SaltOfHeavenLogo2" size="0.125000 0.112752" />
+    <ImageTarget name="SaltOfHeavenQRCode" size="0.125000 0.125000" />
+    <ImageTarget name="PoutPoutShark" size="0.125000 0.125208" />
+    <ImageTarget name="Hotel_Poster" size="0.125000 0.161820" />
+    <ImageTarget name="bike_illustration" size="1.000000 0.755556" />
+    <ImageTarget name="SaltofHeaven3" size="1.000000 1.333333" />
+    <ImageTarget name="SaltofHeaven2" size="1.000000 1.333333" />
+    <ImageTarget name="SaltofHeaven1" size="1.000000 1.333333" />
+    <ImageTarget name="Montessorilogo" size="1.000000 0.182266" />
+    <ImageTarget name="UCF_Logo5" size="1.000000 0.999237" />
+    <ImageTarget name="UCF_Logo4" size="1.000000 0.614045" />
+    <ImageTarget name="SaltofHeavenLogo" size="1.000000 1.880490" />
+    <ImageTarget name="HillelHebrewAcademyLogo" size="1.000000 1.000000" />
+    <ImageTarget name="UCF_Logo3" size="1.000000 1.569038" />
+    <ImageTarget name="UCF_Logo2" size="1.000000 1.148810" />
+    <ImageTarget name="UCF_Logo1" size="1.000000 0.802015" />
+    <ImageTarget name="CBS_Logo_2" size="1.000000 1.325153" />
+    <ImageTarget name="CBS_Logo_1" size="1.000000 1.485393" />
+    <ImageTarget name="paving" size="100.000000 37.953796" />
+    <ImageTarget name="Guido_Coldwell" size="100.000000 57.528957" />
+    <ImageTarget name="Darrell_BailBonds" size="100.000000 54.748604" />
+    <ImageTarget name="Inkozi" size="100.000000 170.532913" />
+    <ImageTarget name="LWAKennethMedel" size="100.000000 57.274120" />
+    <ImageTarget name="LWAAlfonsoMorales" size="100.000000 57.274120" />
+    <ImageTarget name="LWACaesarMedel" size="100.000000 57.274120" />
+    <ImageTarget name="LWAManuelBetancourt" size="100.000000 57.274120" />
+    <ImageTarget name="LWAMarcMcDonald" size="100.000000 57.274120" />
+    <ImageTarget name="LWAZackPierola" size="100.000000 57.274120" />
+    <ImageTarget name="GeneralInfoCard" size="100.000000 57.274120" />
+    <ImageTarget name="LWA-Card" size="100.000000 57.274120" />
+    <ImageTarget name="UCF_Logo_Pegasus_Text" size="100.000000 61.404526" />
+    <ImageTarget name="UCF_Logo_Text" size="100.000000 76.038017" />
+    <ImageTarget name="Walk" size="100.000000 100.000000" />
+    <ImageTarget name="Think" size="100.000000 100.000000" />
+    <ImageTarget name="Give" size="100.000000 100.000000" />
+    <ImageTarget name="Laugh" size="100.000000 100.000000" />
+    <ImageTarget name="Jump" size="100.000000 100.000000" />
+    <ImageTarget name="Fly" size="100.000000 100.000000" />
+    <ImageTarget name="AliceBusinessCard" size="1.000000 0.689373" />
+    <ImageTarget name="Neptune_C_Image_Only" size="100.000000 48.614319" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="OTB_Bottom_Card_Banner" size="0.125000 0.019286" />
+    <ImageTarget name="OTB_Card_Front" size="0.125000 0.080333" />
+    <ImageTarget name="Jacksonville_Jaguars_logo" size="0.125000 0.094062" />
+    <ImageTarget name="OTB_Logo_Black" size="0.125000 0.054816" />
+    <ImageTarget name="Brett_Gabbert" size="0.125000 0.130849" />
+    <ImageTarget name="OTB-Logo" size="0.125000 0.059671" />
+    <ImageTarget name="OTB_Banner" size="0.125000 0.040431" />
+    <ImageTarget name="OTB_Site_Device_Image" size="0.125000 0.145142" />
+    <ImageTarget name="OTB_Player_Image" size="0.125000 0.100036" />
+  </Tracking>
+</QCARConfig>

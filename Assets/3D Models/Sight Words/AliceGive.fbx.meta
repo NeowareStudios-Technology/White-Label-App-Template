@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: a7cf62004139d024ca35e038818d84f3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alex
+    100002: Alex_2
+    100004: Alice
+    100006: Alice_2
+    100008: //RootNode
+    100010: Brows
+    100012: Cinema4D_Editor
+    100014: Gift
+    100016: Head
+    100018: Head_2
+    100020: HeadTip
+    100022: HeadTip_2
+    100024: Hips
+    100026: Hips_2
+    100028: LeftArm
+    100030: LeftArm_2
+    100032: LeftFingers
+    100034: LeftFingers_2
+    100036: LeftFingersTip
+    100038: LeftFingersTip_2
+    100040: LeftFoot
+    100042: LeftFoot_2
+    100044: LeftFoot_Goal
+    100046: LeftForeArm
+    100048: LeftForeArm_2
+    100050: LeftHand
+    100052: LeftHand_2
+    100054: LeftLeg
+    100056: LeftLeg_2
+    100058: LeftLegShin
+    100060: LeftLegShin_2
+    100062: LeftThumb
+    100064: LeftThumb_2
+    100066: LeftThumbBend
+    100068: LeftThumbBend_2
+    100070: LeftThumbTip
+    100072: LeftThumbTip_2
+    100074: LeftToes
+    100076: LeftToes_2
+    100078: LeftToesTip
+    100080: LeftToesTip_2
+    100082: Neck
+    100084: Neck_2
+    100086: RightArm
+    100088: RightArm_2
+    100090: RightFingers
+    100092: RightFingers_2
+    100094: RightFingersTip
+    100096: RightFingersTip_2
+    100098: RightFoot
+    100100: RightFoot_2
+    100102: RightFoot_Goal
+    100104: RightForeArm
+    100106: RightForeArm_2
+    100108: RightHand
+    100110: RightHand_2
+    100112: RightLeg
+    100114: RightLeg_2
+    100116: RightLegShin
+    100118: RightLegShin_2
+    100120: RightThumb
+    100122: RightThumb_2
+    100124: RightThumbBend
+    100126: RightThumbBend_2
+    100128: RightThumbTip
+    100130: RightThumbTip_2
+    100132: RightToes
+    100134: RightToes_2
+    100136: RightToesTip
+    100138: RightToesTip_2
+    100140: Spine1
+    100142: Spine1_2
+    100144: Spine2
+    100146: Spine2_2
+    400000: Alex
+    400002: Alex_2
+    400004: Alice
+    400006: Alice_2
+    400008: //RootNode
+    400010: Brows
+    400012: Cinema4D_Editor
+    400014: Gift
+    400016: Head
+    400018: Head_2
+    400020: HeadTip
+    400022: HeadTip_2
+    400024: Hips
+    400026: Hips_2
+    400028: LeftArm
+    400030: LeftArm_2
+    400032: LeftFingers
+    400034: LeftFingers_2
+    400036: LeftFingersTip
+    400038: LeftFingersTip_2
+    400040: LeftFoot
+    400042: LeftFoot_2
+    400044: LeftFoot_Goal
+    400046: LeftForeArm
+    400048: LeftForeArm_2
+    400050: LeftHand
+    400052: LeftHand_2
+    400054: LeftLeg
+    400056: LeftLeg_2
+    400058: LeftLegShin
+    400060: LeftLegShin_2
+    400062: LeftThumb
+    400064: LeftThumb_2
+    400066: LeftThumbBend
+    400068: LeftThumbBend_2
+    400070: LeftThumbTip
+    400072: LeftThumbTip_2
+    400074: LeftToes
+    400076: LeftToes_2
+    400078: LeftToesTip
+    400080: LeftToesTip_2
+    400082: Neck
+    400084: Neck_2
+    400086: RightArm
+    400088: RightArm_2
+    400090: RightFingers
+    400092: RightFingers_2
+    400094: RightFingersTip
+    400096: RightFingersTip_2
+    400098: RightFoot
+    400100: RightFoot_2
+    400102: RightFoot_Goal
+    400104: RightForeArm
+    400106: RightForeArm_2
+    400108: RightHand
+    400110: RightHand_2
+    400112: RightLeg
+    400114: RightLeg_2
+    400116: RightLegShin
+    400118: RightLegShin_2
+    400120: RightThumb
+    400122: RightThumb_2
+    400124: RightThumbBend
+    400126: RightThumbBend_2
+    400128: RightThumbTip
+    400130: RightThumbTip_2
+    400132: RightToes
+    400134: RightToes_2
+    400136: RightToesTip
+    400138: RightToesTip_2
+    400140: Spine1
+    400142: Spine1_2
+    400144: Spine2
+    400146: Spine2_2
+    2300000: Brows
+    2300002: Gift
+    3300000: Brows
+    3300002: Gift
+    4300000: Alex_2
+    4300002: Brows
+    4300004: Gift
+    4300006: Alice_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Alex_2
+    13700002: Alice_2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AlexEyes
+    second: {fileID: 2100000, guid: a668eabcaced5d3438ae4d5618d47c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AliceSkin
+    second: {fileID: 2100000, guid: 5d8913bb2781caf4fb6cd3c3c1d3acd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlueShirt
+    second: {fileID: 2100000, guid: f087c91b2938e2447bb5b78b468cacc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boy'sSkin
+    second: {fileID: 2100000, guid: 2d094a1bd1ff19843ba9bdef4d0c88dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gift
+    second: {fileID: 2100000, guid: 44deae68e5a4f8d4680d9be32af2765a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenPants
+    second: {fileID: 2100000, guid: 153daf84732154f4186da09cacce8ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HairBlack
+    second: {fileID: 2100000, guid: 89c73adc9143851458e6a516e267c357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jean
+    second: {fileID: 2100000, guid: 37212c5a925243a4486617547166cd8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0853145442bed124aa9b1dc349bba648, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose
+    second: {fileID: 2100000, guid: ba34b7c899dfee44fa61af339f4048ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orangemeh
+    second: {fileID: 2100000, guid: be0a05d8646708e4b8cde0519667df61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RShirt
+    second: {fileID: 2100000, guid: e7a1b8d4e21f2624ea348944c06b85c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: f63e1e6cc7028e44897916bbe25905c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smile
+    second: {fileID: 2100000, guid: 61e2c45a16dbffb48a89bbb3214961d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 51e71f785c10b48a68785376cbe92fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowHair
+    second: {fileID: 2100000, guid: cd0ff7c0acb98a345a3fdd4c9216884e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 105
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Alex
+        weight: 1
+      - path: Alex/Alex_2
+        weight: 1
+      - path: Alex/Alex_2/Brows
+        weight: 1
+      - path: Alex/Alex_2/Hips
+        weight: 1
+      - path: Alex/Alex_2/Hips/LeftLeg
+        weight: 1
+      - path: Alex/Alex_2/Hips/LeftLeg/LeftLegShin
+        weight: 1
+      - path: Alex/Alex_2/Hips/LeftLeg/LeftLegShin/LeftFoot
+        weight: 1
+      - path: Alex/Alex_2/Hips/LeftLeg/LeftLegShin/LeftFoot/LeftToes
+        weight: 1
+      - path: Alex/Alex_2/Hips/LeftLeg/LeftLegShin/LeftFoot/LeftToes/LeftToesTip
+        weight: 1
+      - path: Alex/Alex_2/Hips/RightLeg
+        weight: 1
+      - path: Alex/Alex_2/Hips/RightLeg/RightLegShin
+        weight: 1
+      - path: Alex/Alex_2/Hips/RightLeg/RightLegShin/RightFoot
+        weight: 1
+      - path: Alex/Alex_2/Hips/RightLeg/RightLegShin/RightFoot/RightToes
+        weight: 1
+      - path: Alex/Alex_2/Hips/RightLeg/RightLegShin/RightFoot/RightToes/RightToesTip
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftFingers
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftFingers/LeftFingersTip
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb/LeftThumbBend
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/LeftArm/LeftForeArm/LeftHand/LeftThumb/LeftThumbBend/LeftThumbTip
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/Neck
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/Neck/Head
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/Neck/Head/HeadTip
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightFingers
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightFingers/RightFingersTip
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb/RightThumbBend
+        weight: 1
+      - path: Alex/Alex_2/Hips/Spine1/Spine2/RightArm/RightForeArm/RightHand/RightThumb/RightThumbBend/RightThumbTip
+        weight: 1
+      - path: Alice
+        weight: 1
+      - path: Alice/Alice_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/LeftLeg_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/LeftLeg_2/LeftLegShin_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/LeftLeg_2/LeftLegShin_2/LeftFoot_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/LeftLeg_2/LeftLegShin_2/LeftFoot_2/LeftToes_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/LeftLeg_2/LeftLegShin_2/LeftFoot_2/LeftToes_2/LeftToesTip_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/RightLeg_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/RightLeg_2/RightLegShin_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/RightLeg_2/RightLegShin_2/RightFoot_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/RightLeg_2/RightLegShin_2/RightFoot_2/RightToes_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/RightLeg_2/RightLegShin_2/RightFoot_2/RightToes_2/RightToesTip_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2/LeftHand_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2/LeftHand_2/LeftFingers_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2/LeftHand_2/LeftFingers_2/LeftFingersTip_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2/LeftHand_2/LeftThumb_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2/LeftHand_2/LeftThumb_2/LeftThumbBend_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/LeftArm_2/LeftForeArm_2/LeftHand_2/LeftThumb_2/LeftThumbBend_2/LeftThumbTip_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/Neck_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/Neck_2/Head_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/Neck_2/Head_2/HeadTip_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2/RightHand_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2/RightHand_2/RightFingers_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2/RightHand_2/RightFingers_2/RightFingersTip_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2/RightHand_2/RightThumb_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2/RightHand_2/RightThumb_2/RightThumbBend_2
+        weight: 1
+      - path: Alice/Alice_2/Hips_2/Spine1_2/Spine2_2/RightArm_2/RightForeArm_2/RightHand_2/RightThumb_2/RightThumbBend_2/RightThumbTip_2
+        weight: 1
+      - path: Cinema4D_Editor
+        weight: 1
+      - path: Gift
+        weight: 1
+      - path: LeftFoot_Goal
+        weight: 1
+      - path: RightFoot_Goal
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

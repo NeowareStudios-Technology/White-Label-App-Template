@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Polyblox-Logo" size="0.125000 0.033685" />
+    <ImageTarget name="Shark-Image" size="1.000000 1.095124" />
+    <ImageTarget name="A-top-three" size="1.000000 3.263636" />
+    <ImageTarget name="Airplane" size="1.000000 1.081301" />
+    <ImageTarget name="H-top-three" size="1.000000 3.192982" />
+    <ImageTarget name="Horse" size="1.000000 0.984733" />
+    <ImageTarget name="K-top-three" size="1.000000 3.050420" />
+    <ImageTarget name="Kite" size="1.000000 1.108527" />
+    <ImageTarget name="R-top-three" size="1.000000 3.075630" />
+    <ImageTarget name="Rhino" size="1.000000 1.024390" />
+    <ImageTarget name="S-top-three" size="1.000000 3.033058" />
+    <ImageTarget name="School" size="1.000000 0.978571" />
+    <ImageTarget name="All-together" size="1.000000 1.199192" />
+  </Tracking>
+</QCARConfig>
